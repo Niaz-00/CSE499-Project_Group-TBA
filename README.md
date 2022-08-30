@@ -1,7 +1,6 @@
-# # Group-TBA
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">&nbsp;</p>
-<p align="center"><strong><img src="https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg" alt="" width="307" height="172" /></strong></p>
+<p align="center"><strong><img src="https://github.com/Niaz-00/CSE499-Project_Group-TBA/blob/main/assets/images/logonsu.png" alt="" width="300" height="300" /></strong></p>
 <p align="center"><strong>North South University</strong></p>
 <p align="center">Department of Electrical &amp; Computer Engineering</p>
 <p align="center"><strong>Group TBA</strong></p>
@@ -128,7 +127,7 @@ will follow the design of Scratch as we are going to use Scratch 3.0 library for
 overall environment will be done in such a way that kids from Bangladesh can relate to it.
 It is needless to say that all of the data of all three stages of the platform will be handled through a
 database.
-<p align="center"><strong><img src="(https://user-images.githubusercontent.com/57037512/187532700-8ed89939-ff4a-442b-8212-94838dbc782b.png)" alt="" width="307" height="172" /></strong></p>
+<p align="center"><strong><img src="https://github.com/Niaz-00/CSE499-Project_Group-TBA/blob/main/assets/images/Methodology.png" alt="" width="800" height="500" /></strong></p>
 
 <p><strong>REFERENCES</strong></p>
 <ol>
